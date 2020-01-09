@@ -9,7 +9,7 @@ This is code for famous keepy uppy game. In this game player need to keep ball a
 ![home_screen](https://github.com/gautamgupta1811/Game_Keppy-Uppy/blob/master/screenshots/home_screen.png)
   
     
-![score](https://github.com/gautamgupta1811/Game_Keppy-Uppy/blob/master/screenshots/home_screen.png)
+![score](https://github.com/gautamgupta1811/Game_Keepy-Uppy/blob/master/screenshots/score.png)
   
     
 ![level](https://github.com/gautamgupta1811/Game_Keppy-Uppy/blob/master/screenshots/level.png)
