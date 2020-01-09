@@ -1,4 +1,4 @@
-# Game_Keppy-Uppy
+Keepy-Uppy
 This is code for famous keepy uppy game. In this game player need to keep ball above the ground by clicking over the ball. If the ball touches the ground score becomes zero. To play the game run game.py using python. Chosse the level and enjoy the game.
   
   
