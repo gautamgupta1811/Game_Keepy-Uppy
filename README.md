@@ -5,14 +5,16 @@ This is code for famous keepy uppy game. In this game player need to keep ball a
 ## :camera:Screenshots
   
   
-    
-![home_screen](https://github.com/gautamgupta1811/Game_Keppy-Uppy/blob/master/screenshots/home_screen.png)
+#### HomeScreen    
+![home_screen1](https://github.com/gautamgupta1811/Game_Keepy-Uppy/blob/master/screenshots/homescreen_1.png)  ![home_screen2](https://github.com/gautamgupta1811/Game_Keepy-Uppy/blob/master/screenshots/homescreen_2.png)
   
     
-![score](https://github.com/gautamgupta1811/Game_Keepy-Uppy/blob/master/screenshots/score.png)
-  
+#### Levels  
+![beginner](https://github.com/gautamgupta1811/Game_Keepy-Uppy/blob/master/screenshots/begginer.png)     ![intermediate](https://github.com/gautamgupta1811/Game_Keepy-Uppy/blob/master/screenshots/intermediate.png)
     
-![level](https://github.com/gautamgupta1811/Game_Keppy-Uppy/blob/master/screenshots/level.png)
+  
+#### GameOver  
+![game_over](https://github.com/gautamgupta1811/Game_Keppy-Uppy/blob/master/screenshots/game_over.png)
   
     
 ## Technology Stack
